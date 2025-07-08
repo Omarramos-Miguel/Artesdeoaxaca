@@ -1,0 +1,16 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    max-width: 1200px;
+    padding: 140px 20px 0 20px;
+    text-align: center;
+    overflow-x: hidden;
+    margin: 0 auto;
+    font-family: World;
+  }
+.banner {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    padding: 0 0 50px 0;
+  }

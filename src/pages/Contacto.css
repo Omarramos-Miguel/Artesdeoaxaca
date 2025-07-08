@@ -1,0 +1,97 @@
+.contacto-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 20px;
+    background-color: #F9F6F1;
+    min-height: 100vh;
+  }
+  
+  .contacto-caja {
+    margin-top: 100px;
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 30px;
+    max-width: 700px;
+    width: 100%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    font-family: 'MiFuente', sans-serif;
+  }
+  
+  .contacto-titulo {
+    font-size: 2.2rem;
+    color: #365F51;
+    margin-bottom: 10px;
+  }
+  
+  .contacto-subtitulo {
+    color: #777;
+    font-size: 1rem;
+    margin-bottom: 30px;
+  }
+  
+  .contacto-formulario {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-bottom: 30px;
+  }
+  
+  .contacto-formulario input,
+  .contacto-formulario textarea {
+    padding: 12px 15px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    font-size: 1rem;
+    font-family: inherit;
+    resize: none;
+  }
+  
+  .contacto-formulario textarea {
+    min-height: 100px;
+  }
+  
+  .contacto-formulario button {
+    background-color: #80BFB9;
+    color: white;
+    border: none;
+    padding: 12px;
+    font-size: 1rem;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .contacto-formulario button:hover {
+    background-color: #68a7a1;
+  }
+  
+  .contacto-info {
+    text-align: left;
+    margin-bottom: 30px;
+    font-size: 0.95rem;
+  }
+  
+  .contacto-info h2 {
+    color: #365F51;
+    font-size: 1.3rem;
+    margin-bottom: 10px;
+  }
+  
+  .contacto-info a {
+    color: #80BFB9;
+    text-decoration: none;
+  }
+  
+  .contacto-info a:hover {
+    text-decoration: underline;
+  }
+  
+  .logo-contacto {
+    max-width: 120px;
+    margin: 0 auto;
+    display: block;
+    margin-top: 20px;
+  }
+  
