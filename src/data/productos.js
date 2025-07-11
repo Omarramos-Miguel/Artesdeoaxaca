@@ -5,12 +5,12 @@ const productos = [
     descripcion: 'Hecho a mano por artesanos oaxaqueños.',
     colores: [
       { color: "copa1", imagen: "/imagenes/copadicho1.jpeg" },
-      { color: "copa1", imagen: "/imagenes/copadicho2.jpeg" },
-      { color: "copa1", imagen: "/imagenes/copadicho3.jpeg" }
-      { color: "copa1", imagen: "/imagenes/copadicho4.jpeg" },
-      { color: "copa1", imagen: "/imagenes/copadicho5.jpeg" },
-      { color: "copa1", imagen: "/imagenes/copadicho6.jpeg" },
-      { color: "copa1", imagen: "/imagenes/copadicho7.jpeg" },
+      { color: "copa2", imagen: "/imagenes/copadicho2.jpeg" },
+      { color: "copa3", imagen: "/imagenes/copadicho3.jpeg" }
+      { color: "copa4", imagen: "/imagenes/copadicho4.jpeg" },
+      { color: "copa5", imagen: "/imagenes/copadicho5.jpeg" },
+      { color: "copa6", imagen: "/imagenes/copadicho6.jpeg" },
+      { color: "copa7", imagen: "/imagenes/copadicho7.jpeg" },
     ]
   },
   {
