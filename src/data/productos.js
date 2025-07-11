@@ -33,10 +33,19 @@ const productos = [
     imagen: '/imagenes/AretesMadera.jpeg',
   },
   {
-    id: 2,
-    nombre: 'Aretes Loteria',
+    id: 5,
+    nombre: 'Aretes Varios',
     descripcion: 'Hecho a mano por artesanos oaxaqueños.',
-    imagen: '/imagenes/Aretes.JPG'
+    colores: [
+      { color: "Aretes1", imagen: "/imagenes/Aretesvarios1.jpeg" },
+      { color: "Aretes2", imagen: "/imagenes/Aretesvarios2.jpeg" },
+      { color: "Aretes3", imagen: "/imagenes/Aretesvarios3.jpeg" },
+      { color: "Aretes4", imagen: "/imagenes/Aretesvarios4.jpeg" },
+      { color: "Aretes5", imagen: "/imagenes/Aretesvarios5.jpeg" },
+      { color: "Aretes6", imagen: "/imagenes/Aretesvarios6.jpeg" },
+      { color: "Aretes7", imagen: "/imagenes/Aretesvarios7.jpeg" },
+      { color: "Aretes8", imagen: "/imagenes/Aretesvarios8.jpeg" },
+    ]
   },
   {
     id: 3,
