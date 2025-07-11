@@ -4,13 +4,13 @@ const productos = [
     nombre: 'Copa mezcalera con dichos',
     descripcion: 'Hecho a mano por artesanos oaxaqueños.',
     colores: [
-      { color: "copa1", imagen: "/imagenes/copadichos1.jpeg" },
-      { color: "copa1", imagen: "/imagenes/copadichos2.jpeg" },
-      { color: "copa1", imagen: "/imagenes/copadichos3.jpeg" }
-      { color: "copa1", imagen: "/imagenes/copadichos4.jpeg" },
-      { color: "copa1", imagen: "/imagenes/copadichos5.jpeg" },
-      { color: "copa1", imagen: "/imagenes/copadichos6.jpeg" },
-      { color: "copa1", imagen: "/imagenes/copadichos7.jpeg" },
+      { color: "copa1", imagen: "/imagenes/copadicho1.jpeg" },
+      { color: "copa1", imagen: "/imagenes/copadicho2.jpeg" },
+      { color: "copa1", imagen: "/imagenes/copadicho3.jpeg" }
+      { color: "copa1", imagen: "/imagenes/copadicho4.jpeg" },
+      { color: "copa1", imagen: "/imagenes/copadicho5.jpeg" },
+      { color: "copa1", imagen: "/imagenes/copadicho6.jpeg" },
+      { color: "copa1", imagen: "/imagenes/copadicho7.jpeg" },
     ]
   },
   {
