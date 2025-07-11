@@ -6,7 +6,7 @@ const productos = [
     colores: [
       { color: "copa1", imagen: "/imagenes/copadicho1.jpeg" },
       { color: "copa2", imagen: "/imagenes/copadicho2.jpeg" },
-      { color: "copa3", imagen: "/imagenes/copadicho3.jpeg" }
+      { color: "copa3", imagen: "/imagenes/copadicho3.jpeg" },
       { color: "copa4", imagen: "/imagenes/copadicho4.jpeg" },
       { color: "copa5", imagen: "/imagenes/copadicho5.jpeg" },
       { color: "copa6", imagen: "/imagenes/copadicho6.jpeg" },
