@@ -9,7 +9,13 @@ const productos = [
     id: 2,
     nombre: 'Aretes Loteria',
     descripcion: 'Hecho a mano por artesanos oaxaqueños.',
-    imagen: '/imagenes/Aretes.JPG'
+    colores: [
+      { color: "Aretes1", imagen: "/imagenes/Aretes1.jpeg" },
+      { color: "Aretes2", imagen: "/imagenes/Aretes2.jpeg" },
+      { color: "Aretes3", imagen: "/imagenes/Aretes3.jpeg" },
+      { color: "Aretes4", imagen: "/imagenes/Aretes4.jpeg" },
+      { color: "Aretes5", imagen: "/imagenes/Aretes5.jpeg" },
+    ]
   },
   {
     id: 3,
