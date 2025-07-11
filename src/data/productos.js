@@ -27,10 +27,10 @@ const productos = [
     ]
   },
   {
-    id: 1,
-    nombre: 'Tequilero Bota',
+    id: 4,
+    nombre: 'Aretes de Madera',
     descripcion: 'Hecho a mano por artesanos oaxaqueños.',
-    imagen: '/imagenes/bota.png'
+    imagen: '/imagenes/AretesMadera.jpeg',
   },
   {
     id: 2,
