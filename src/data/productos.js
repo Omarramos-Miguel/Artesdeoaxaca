@@ -59,10 +59,31 @@ const productos = [
     ]
   },
   {
-    id: 1,
-    nombre: 'Tequilero Bota',
+    id: 7,
+    nombre: 'Llavero de papel picado',
     descripcion: 'Hecho a mano por artesanos oaxaqueños.',
-    imagen: '/imagenes/bota.png'
+    colores: [
+      { color: "llaveropapelpicado1", imagen: "/imagenes/llaveropapel1.jpeg" },
+      { color: "llaveropapelpicado2", imagen: "/imagenes/llaveropapel2.jpeg" },
+      { color: "llaveropapelpicado3", imagen: "/imagenes/llaveropapel3.jpeg" },
+      { color: "llaveropapelpicado4", imagen: "/imagenes/llaveropapel4.jpeg" },
+      { color: "llaveropapelpicado5", imagen: "/imagenes/llaveropapel5.jpeg" },
+      { color: "llaveropapelpicado6", imagen: "/imagenes/llaveropapel6.jpeg" },
+      { color: "llaveropapelpicado7", imagen: "/imagenes/llaveropapel7.jpeg" },
+      { color: "llaveropapelpicado8", imagen: "/imagenes/llaveropapel8.jpeg" },
+      { color: "llaveropapelpicado9", imagen: "/imagenes/llaveropapel9.jpeg" },
+      { color: "llaveropapelpicado10", imagen: "/imagenes/llaveropapel10.jpeg" },
+      { color: "llaveropapelpicado11", imagen: "/imagenes/llaveropapel11.jpeg" },
+      { color: "llaveropapelpicado12", imagen: "/imagenes/llaveropapel12.jpeg" },
+      { color: "llaveropapelpicado13", imagen: "/imagenes/llaveropapel13.jpeg" },
+      { color: "llaveropapelpicado14", imagen: "/imagenes/llaveropapel14.jpeg" },
+      { color: "llaveropapelpicado15", imagen: "/imagenes/llaveropapel15.jpeg" },
+      { color: "llaveropapelpicado16", imagen: "/imagenes/llaveropapel16.jpeg" },
+      { color: "llaveropapelpicado17", imagen: "/imagenes/llaveropapel17.jpeg" },
+      { color: "llaveropapelpicado18", imagen: "/imagenes/llaveropapel18.jpeg" },
+      { color: "llaveropapelpicado19", imagen: "/imagenes/llaveropapel19.jpeg" },
+      
+    ]
   },
   {
     id: 2,
