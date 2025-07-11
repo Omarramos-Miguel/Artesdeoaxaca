@@ -48,12 +48,14 @@ const productos = [
     ]
   },
   {
-    id: 3,
-    nombre: "Aretes Oaxaqueños",
+    id: 6,
+    nombre: "Servilletero de papel picado Personalizado",
     descripcion: "Hecho a mano por artesanos oaxaqueños",
     colores: [
-      { color: "Maramota", imagen: "/imagenes/arete-maramota.jpeg" },
-      { color: "Papel Picado", imagen: "/imagenes/aretes-papelpicado.jpeg" },
+      { color: "papel1", imagen: "/imagenes/papel1.jpeg" },
+      { color: "papel2", imagen: "/imagenes/papel2.jpeg" },
+      { color: "papel3", imagen: "/imagenes/papel3.jpeg" },
+      { color: "papel4", imagen: "/imagenes/papel4.jpeg" },
     ]
   },
   {
