@@ -1,9 +1,17 @@
 const productos = [
   {
     id: 1,
-    nombre: 'Tequilero Bota',
+    nombre: 'Copa mezcalera con dichos',
     descripcion: 'Hecho a mano por artesanos oaxaqueños.',
-    imagen: '/imagenes/bota.png'
+    colores: [
+      { color: "copa1", imagen: "/imagenes/copadichos1.jpeg" },
+      { color: "copa1", imagen: "/imagenes/copadichos2.jpeg" },
+      { color: "copa1", imagen: "/imagenes/copadichos3.jpeg" }
+      { color: "copa1", imagen: "/imagenes/copadichos4.jpeg" },
+      { color: "copa1", imagen: "/imagenes/copadichos5.jpeg" },
+      { color: "copa1", imagen: "/imagenes/copadichos6.jpeg" },
+      { color: "copa1", imagen: "/imagenes/copadichos7.jpeg" },
+    ]
   },
   {
     id: 2,
@@ -87,9 +95,9 @@ const productos = [
   },
   {
     id: 2,
-    nombre: 'Aretes Loteria',
+    nombre: 'Tequilero Bota',
     descripcion: 'Hecho a mano por artesanos oaxaqueños.',
-    imagen: '/imagenes/Aretes.JPG'
+    imagen: '/imagenes/bota.png'
   },
   {
     id: 3,
